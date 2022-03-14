@@ -10,6 +10,21 @@
 * [Public Rest API for Aletheia](general/responses.md)
 * [Open Source](general/open-source.md)
 
+## Getting Started
+
+* [Public Information](getting-started/public-information.md)
+* [Permanent Storage](getting-started/permanent-storage.md)
+* [Accessibility](getting-started/accessibility.md)
+* [Open API](getting-started/open-api.md)
+* [MiniSearch](getting-started/minisearch.md)
+* [Airdrop Program](getting-started/airdrop-program.md)
+
+## Alexandria
+
+* [General](alexandria/general.md)
+* [IPFS](alexandria/ipfs.md)
+* [Filecoin](alexandria/filecoin.md)
+
 ## System
 
 * [Dashboard (under development)](https://app.aletheiadata.org)
@@ -22,12 +37,6 @@
 * [¡Apoyanos en Open Colective! 🤖](https://opencollective.com/aletheia-data)
 * [¡Apoyanos con Paypal! ❣️](https://paypal.me/insuladigitalstudio)
 * [¡Apoyanos en Gitcoin! 👨🏽‍💻](https://gitcoin.co/grants/3179/aletheia-data)
-
-## Alexandria
-
-* [General](alexandria/general.md)
-* [IPFS](alexandria/ipfs.md)
-* [Filecoin](alexandria/filecoin.md)
 
 ## Where to find us
 
