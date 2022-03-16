@@ -6,7 +6,6 @@
 
 * [Public API Documentation](general/attributes.md)
 * [Auth for the Aletheia API](general/limit.md)
-* [Pricing](general/pagination.md)
 * [Public Rest API for Aletheia](general/responses.md)
 * [Open Source](general/open-source.md)
 
@@ -15,7 +14,7 @@
 * [Public Information](getting-started/public-information.md)
 * [Decentralized Storage](getting-started/decentralized-storage.md)
 * [Accessibility](getting-started/accessibility.md)
-* [Open API](getting-started/open-api.md)
+* [Rapid API](getting-started/rapid-api.md)
 * [MiniSearch](getting-started/minisearch.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
 
