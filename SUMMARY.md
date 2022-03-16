@@ -13,7 +13,7 @@
 ## Getting Started
 
 * [Public Information](getting-started/public-information.md)
-* [Permanent Storage](getting-started/permanent-storage.md)
+* [Decentralized Storage](getting-started/decentralized-storage.md)
 * [Accessibility](getting-started/accessibility.md)
 * [Open API](getting-started/open-api.md)
 * [MiniSearch](getting-started/minisearch.md)
