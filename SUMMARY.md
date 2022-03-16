@@ -2,21 +2,18 @@
 
 * [Aletheia Data](README.md)
 
-## General
-
-* [Public API Documentation](general/attributes.md)
-* [Auth for the Aletheia API](general/limit.md)
-* [Public Rest API for Aletheia](general/responses.md)
-* [Open Source](general/open-source.md)
-
 ## Getting Started
 
 * [Public Information](getting-started/public-information.md)
 * [Decentralized Storage](getting-started/decentralized-storage.md)
 * [Accessibility](getting-started/accessibility.md)
-* [Rapid API](getting-started/rapid-api.md)
+* [Rapid API](getting-started/rapid-api/README.md)
+  * [Public API Documentation](getting-started/rapid-api/attributes.md)
+  * [Auth for the Aletheia API](getting-started/rapid-api/limit.md)
+  * [Public Rest API for Aletheia](getting-started/rapid-api/responses.md)
 * [MiniSearch](getting-started/minisearch.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
+* [Open Source](getting-started/open-source.md)
 
 ## Alexandria
 
