@@ -6,7 +6,7 @@ on Rapid API you have direct access to any dataset's information. To query a dat
 2. Open up the V1 dropdown and select SEARCH - IPFS endpoint (V1)
 3. Scroll down to fill all the needed parameters
 
-{% swagger method="get" path="" baseUrl="https://aletheia2.p.rapidapi.com/v1/_search/ipfs/csv/%7Bcid%7D" summary="Example Parameter" %}
+{% swagger method="get" path="" baseUrl="https://aletheia2.p.rapidapi.com/v1/_search/<host>/<format>/<CID>" summary="Example Parameter" %}
 {% swagger-description %}
 
 {% endswagger-description %}
