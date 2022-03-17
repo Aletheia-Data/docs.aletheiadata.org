@@ -4,7 +4,7 @@ on Rapid API you have direct access to any dataset's information. To query a dat
 
 1. Go to [https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2/](https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2/)
 2. Open up the V1 dropdown and select SEARCH - IPFS endpoint (V1)
-3. Scroll down to fill all the needed parameters
+3. Scroll down to fill out all the parameters needed
 
 {% swagger method="get" path="" baseUrl="https://aletheia2.p.rapidapi.com/v1/_search/<host>/<format>/<CID>" summary="Example Parameter" %}
 {% swagger-description %}
