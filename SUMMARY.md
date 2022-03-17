@@ -11,7 +11,7 @@
   * [Public API Documentation](getting-started/rapid-api/attributes.md)
   * [Auth for the Aletheia API](getting-started/rapid-api/limit.md)
   * [Public Rest API for Aletheia](getting-started/rapid-api/responses.md)
-  * [How to use](getting-started/rapid-api/how-to-use.md)
+  * [How to use](getting-started/rapid-api/quick-start.md)
 * [MiniSearch](getting-started/minisearch.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
 * [Open Source](getting-started/open-source.md)

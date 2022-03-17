@@ -9,7 +9,7 @@ Rapid API allow us to distribute our API effortless and securely. Our API is com
 5. Open up V4
 6. Congratulations, now you can start querying our datasets\*\*
 
-{% file src="../../.gitbook/assets/rapidapi.com_aletheia-data-aletheia-data-default_api_aletheia2 (1).png" %}
+![](<../../.gitbook/assets/rapidapi.com\_aletheia-data-aletheia-data-default\_api\_aletheia2 (1) (1).png>)
 
 
 
