@@ -1,4 +1,4 @@
-# Query Datasets
+# Interact with Datasets
 
 on Rapid API you have direct access to any dataset's information. To query a dataset follow this instructions:
 
@@ -8,6 +8,8 @@ on Rapid API you have direct access to any dataset's information. To query a dat
 
 {% swagger method="get" path="" baseUrl="https://aletheia2.p.rapidapi.com/v1/_search/<host>/<format>/<CID>" summary="Example Parameter" %}
 {% swagger-description %}
+
+
 
 {% endswagger-description %}
 
@@ -47,3 +49,26 @@ What is the format of the required file
 CID of the asset required
 {% endswagger-parameter %}
 {% endswagger %}
+
+### Query Dataset
+
+1. To find a dataset to query, **go to**: [https://app.aletheiadata.org/dashboard](https://app.aletheiadata.org/dashboard)
+2. Search for a Dataset. **Example**: [https://app.aletheiadata.org/single/dep/bafkreigihqba7uy6rnwyfsn2tlkflrfzk3zeebzxp2lnquq6wpa3o6vdaa](https://app.aletheiadata.org/single/dep/bafkreigihqba7uy6rnwyfsn2tlkflrfzk3zeebzxp2lnquq6wpa3o6vdaa)
+3. Click on **IPFS** under **Connect**. This will copy in your clipboard the asset's CID
+
+![](../../.gitbook/assets/app.aletheiadata.org\_single\_dep\_bafkreigihqba7uy6rnwyfsn2tlkflrfzk3zeebzxp2lnquq6wpa3o6vdaa.png)
+
+&#x20;  4\. **Enter CID** in the CID field in the **API's required field**
+
+&#x20;  5\. Add any other required parameter **(see above)**
+
+&#x20;  6\. Press **Test Endpoint**
+
+![](<../../.gitbook/assets/rapidapi.com\_aletheia-data-aletheia-data-default\_api\_aletheia2 (1) (1).png>)
+
+You can also copy the **Code Snippets** available in _**many different programming languages**_.
+
+To **learn more** go to [https://docs.rapidapi.com/docs/consumer-quick-start-guide](https://docs.rapidapi.com/docs/consumer-quick-start-guide)
+
+
+
