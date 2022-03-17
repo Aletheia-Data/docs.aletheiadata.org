@@ -9,7 +9,7 @@ Rapid API allow us to distribute our API effortless and securely. Our API is com
 5. Open up the V1 dropdown and select SEARCH - IPFS endpoint (V1)
 6. Congratulations, now you can start querying our datasets\*\*
 
-![](<../../.gitbook/assets/rapidapi.com\_aletheia-data-aletheia-data-default\_api\_aletheia2 (1) (1).png>)
+![Learn more on https://docs.rapidapi.com/docs/account-creation-and-settings](<../../.gitbook/assets/rapidapi.com\_aletheia-data-aletheia-data-default\_api\_aletheia2 (1) (1).png>)
 
 
 
