@@ -42,7 +42,7 @@ Service where the asset is located
 {% endswagger-parameter %}
 
 {% swagger-parameter in="path" name="format" required="true" %}
-What is the format of the required file
+What is the format of the required asset
 {% endswagger-parameter %}
 
 {% swagger-parameter in="path" name="cid" required="true" %}
