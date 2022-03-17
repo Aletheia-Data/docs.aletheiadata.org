@@ -6,7 +6,7 @@ Rapid API allow us to distribute our API effortless and securely. Our API is com
 2. Register if not haven't already
 3. Chose [Pricing](https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2/pricing) plan&#x20;
 4. Select the [Endpoint](https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2/) tab
-5. Open up V4
+5. Open up the V1 dropdown and select SEARCH - IPFS endpoint (V1)
 6. Congratulations, now you can start querying our datasets\*\*
 
 ![](<../../.gitbook/assets/rapidapi.com\_aletheia-data-aletheia-data-default\_api\_aletheia2 (1) (1).png>)
