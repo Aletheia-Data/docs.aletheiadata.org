@@ -1,4 +1,4 @@
-# Interact with Datasets
+# Query Datasets
 
 on Rapid API you have direct access to any dataset's information. To query a dataset follow this instructions:
 
@@ -50,7 +50,7 @@ CID of the asset required
 {% endswagger-parameter %}
 {% endswagger %}
 
-### Query Dataset
+### Interacting with Datasets
 
 1. To find a dataset to query, **go to**: [https://app.aletheiadata.org/dashboard](https://app.aletheiadata.org/dashboard)
 2. Search for a Dataset. **Example**: [https://app.aletheiadata.org/single/dep/bafkreigihqba7uy6rnwyfsn2tlkflrfzk3zeebzxp2lnquq6wpa3o6vdaa](https://app.aletheiadata.org/single/dep/bafkreigihqba7uy6rnwyfsn2tlkflrfzk3zeebzxp2lnquq6wpa3o6vdaa)
