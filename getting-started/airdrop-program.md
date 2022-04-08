@@ -1,3 +1,3 @@
 # Airdrop Program
 
-Coming soon!
+**Stay tuned! Updates Soon!**
