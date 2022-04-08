@@ -6,7 +6,7 @@ description: >-
 
 # General
 
-This service has the task of registering a copy of all public information issued by the authorities making them "unstoppable" through blockchain technology.
+This service uploads to IPFS any information given to it as dataset, making it "unstoppable" through blockchain technology.
 
 All files will be distributed by IPFS (Interplanetary File System) making them uncensorable, immutable, and available at all times.
 
