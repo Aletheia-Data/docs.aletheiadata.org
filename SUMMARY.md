@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [General](getting-started/general.md)
 * [Public Information](getting-started/public-information.md)
 * [Decentralized Storage](getting-started/decentralized-storage.md)
 * [Accessibility](getting-started/accessibility.md)
@@ -14,14 +15,10 @@
   * [How to use](getting-started/rapid-api/quick-start.md)
   * [Query Datasets](getting-started/rapid-api/query-datasets.md)
 * [MiniSearch](getting-started/minisearch.md)
+* [IPFS](getting-started/ipfs.md)
+* [Filecoin](getting-started/filecoin.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
 * [Open Source](getting-started/open-source.md)
-
-## Alexandria
-
-* [General](alexandria/general.md)
-* [IPFS](alexandria/ipfs.md)
-* [Filecoin](alexandria/filecoin.md)
 
 ## System
 
