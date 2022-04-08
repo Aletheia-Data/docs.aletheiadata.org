@@ -1,3 +1,10 @@
+---
+description: >-
+  This service uses a "Mini" Search Engine which is a tiny but powerful
+  in-memory full-text search engine to index the data in order to allow
+  full-text search features against the dataset.
+---
+
 # MiniSearch
 
 Some **assets\*** are accessible directly in the dashboard using our **MiniSearch Service**.
