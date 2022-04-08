@@ -1,7 +1,7 @@
 ---
 description: >-
-  The Library of Alexandria is a virtual space designed to preserve and grow
-  humanity's knowledge by making the Web more resilient and open.
+  Aletheia Data is a virtual space designed to preserve and grow humanity's
+  knowledge by making the Web more resilient and open.
 ---
 
 # General
