@@ -22,8 +22,7 @@
 
 ## System
 
-* [Dashboard (under development)](https://app.aletheiadata.org)
-* [Heptastadion](https://hep.aletheiadata.org)
+* [Dashboard (👷‍♂️)](https://app.aletheiadata.org)
 * [Github](https://github.com/Aletheia-Data)
 * [Status System](https://aletheiadata.statuspage.io)
 
