@@ -1,6 +1,6 @@
 # How to use
 
-Rapid API allow us to distribute our API effortless and securely. Our API is completely Open as you can start using it right away without charge\*
+Rapid API allow us to distribute our API effortless and securely. Our API is completely open and you can start using it right away without charge\*
 
 1. Go to [https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2](https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2)
 2. Register if not haven't already
