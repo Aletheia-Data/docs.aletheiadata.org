@@ -15,7 +15,7 @@ on Rapid API you have direct access to any dataset's information. To query a dat
 
 ![](../../.gitbook/assets/app.aletheiadata.org\_single\_dep\_bafkreigihqba7uy6rnwyfsn2tlkflrfzk3zeebzxp2lnquq6wpa3o6vdaa.png)
 
-&#x20;  4\. **Enter CID** in the CID field in the **API's required field**
+&#x20;  4\. **Paste the value** into the CID field
 
 &#x20;  5\. Add any other required parameter **(see above)**
 
