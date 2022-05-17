@@ -12,7 +12,7 @@ Just Pressed "**Subir Archivo**" in homepage to upload assets into the system.
 
 ![](../.gitbook/assets/2.png)
 
-3\. Describe the source of the document
+3\. Select the source of the document
 
 ![](../.gitbook/assets/3.png)
 
