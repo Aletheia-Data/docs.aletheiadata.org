@@ -6,9 +6,9 @@
 
 * [General](getting-started/general.md)
 * [Public Information](getting-started/public-information.md)
-* [IPFS](getting-started/ipfs/README.md)
-  * [Decentralized Storage](getting-started/ipfs/decentralized-storage.md)
-  * [Accessibility](getting-started/ipfs/accessibility.md)
+* [IPFS](getting-started/ipfs.md)
+  * [Decentralized Storage](getting-started/decentralized-storage.md)
+  * [Accessibility](getting-started/accessibility.md)
 * [Rapid API](getting-started/rapid-api/README.md)
   * [Public API Documentation](getting-started/rapid-api/attributes.md)
   * [Auth for the Aletheia API](getting-started/rapid-api/limit.md)
