@@ -18,4 +18,4 @@ It enables the creation of completely distributed applications, and in doing so 
 
 Its p2p sharing network allow us keeping track of the files that we are safeguarding and guarantees us data integrity as well as decentralization on the distribution and storing layer. Its content identifiers, or CIDs, are a cryptographic hash of the content that is used to indicate the digital file itself in IPFS. It does not indicate where the content is stored, but rather forms a kind of "address" based on the content itself.&#x20;
 
-Using a system based on CIDs will allow us make sure the data we're serving it's actually the data we say we're delivering. This makes imposible to manipulate or change the data (if the data changes, the CIDs changes too).
+Using a system based on CIDs will allow us to make sure the data we're serving it's actually the data we say we're delivering. This makes imposible to manipulate or change the data (if the data changes, the CIDs changes too).
