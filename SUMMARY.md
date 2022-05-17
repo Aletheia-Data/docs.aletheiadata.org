@@ -17,6 +17,7 @@
   * [How to use](getting-started/rapid-api/quick-start.md)
   * [Query Datasets](getting-started/rapid-api/query-datasets.md)
 * [MiniSearch](getting-started/minisearch.md)
+* [Uploader](getting-started/uploader.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
 * [Open Source](getting-started/open-source.md)
 

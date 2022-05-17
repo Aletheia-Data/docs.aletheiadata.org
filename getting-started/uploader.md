@@ -1,17 +1,10 @@
----
-description: >-
-  "Mini" Search Engine is a tiny but powerful in-memory full-text search engine
-  that indexes the data in order to allow full-text search features against the
-  dataset.
----
+# Uploader
 
-# MiniSearch
+Users can contribute by uploading their own datasets making the system more resilient and useful for the community. The more data we have in the system, the more data our community can used for their data needs.&#x20;
 
-Some **assets\*** are accessible directly in the dashboard using our **MiniSearch Service**.
+Just Pressed "**Subir Archivo**" in homepage to upload assets into the system.
 
-This service allows users to **look into the content of the file** before downloading it. This is a very useful service that could speed up researcher's work as it gives users a quick look into the dataset.
-
-1\. **Go to the asset** you're interested in
+1\. Step 1
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-08 at 12.32 1.png>)
 
