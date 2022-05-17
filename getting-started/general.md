@@ -6,9 +6,9 @@ description: >-
 
 # General
 
-This service uploads to [IPFS](ipfs.md) any information given to it as dataset, making it "unstoppable" through blockchain technology.
+This service uploads to [IPFS](ipfs/) any information given to it as dataset, making it "unstoppable" through blockchain technology.
 
-All files will be distributed by [IPFS](ipfs.md) (Interplanetary File System) making them uncensorable, immutable, and available at all times.
+All files will be distributed by [IPFS](ipfs/) (Interplanetary File System) making them uncensorable, immutable, and available at all times.
 
 Once in the P2P network it will not be possible to cancel or remove the information from the network.
 
@@ -22,5 +22,5 @@ Using a decentralized platform gives us the guarantee that the information will 
 
 ### What do you mean by making the information 'unstoppable'?&#x20;
 
-Unstoppable or decentralized information means that the information is not located in a fixed location (or server) but is distributed in the [IPFS P2P network](ipfs.md). Once a file enters the system, it cannot be modified or canceled, since it will live in each of our computers.
+Unstoppable or decentralized information means that the information is not located in a fixed location (or server) but is distributed in the [IPFS P2P network](ipfs/). Once a file enters the system, it cannot be modified or canceled, since it will live in each of our computers.
 
