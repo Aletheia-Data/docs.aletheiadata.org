@@ -21,11 +21,8 @@ on Rapid API you have direct access to any dataset's information. To query a dat
 
 &#x20;  6\. Press **Test Endpoint**
 
-![](<../../.gitbook/assets/rapidapi.com\_aletheia-data-aletheia-data-default\_api\_aletheia2 (1) (1).png>)
+![](../../.gitbook/assets/rapidapi.com\_aletheia-data-aletheia-data-default\_api\_aletheia2-min.png)
 
-You can also copy the **Code Snippets** available in _**many different programming languages**_.
+You can also copy the **Code Snippets** which are available in _**many different programming languages**_.
 
 To **learn more** go to [https://docs.rapidapi.com/docs/consumer-quick-start-guide](https://docs.rapidapi.com/docs/consumer-quick-start-guide)
-
-
-
