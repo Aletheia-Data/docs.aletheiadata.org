@@ -9,3 +9,5 @@ By using RapidAPI, you can consume any API using a unified, REST format that is 
 ### For API Providers
 
 If you already have an API, we make it simple to distribute and monetize your API. Adding your API to RapidAPI's marketplace gets you instant exposure to our growing user base, a search-engine-optimized profile page for your API, as well as features like user management and billing services. For more on adding your API, check out [API Providers](https://rapidapi.com/api-providers) page for more.
+
+### [Aletheia Data Rapid API Dashboard](https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2)

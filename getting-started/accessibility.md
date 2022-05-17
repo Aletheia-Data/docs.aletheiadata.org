@@ -8,7 +8,7 @@ While resiliency and efficiency are hallmarks of decentralized storage, there ar
 
 An ideal distributed system should be accessible. Participation in the network should be easy, allowing as many nodes as possible to store and distribute files on behalf of the network.
 
-With [Filecoin](https://filecoin.io/), any relatively tech-savvy individual should be able to run a client node to interact with the network. As for running storage miner nodes (see [below](https://coinmarketcap.com/alexandria/article/what-is-decentralized-storage-a-deep-dive-by-filecoin#toc-case-study-how-filecoin-embodies-these-characteristics) for more information), it’s not something that everyone and their mom can do — you need to have hardware that meets certain specifications.
+With [Filecoin](https://filecoin.io), any relatively tech-savvy individual should be able to run a client node to interact with the network. As for running storage miner nodes (see [below](https://coinmarketcap.com/alexandria/article/what-is-decentralized-storage-a-deep-dive-by-filecoin#toc-case-study-how-filecoin-embodies-these-characteristics) for more information), it’s not something that everyone and their mom can do — you need to have hardware that meets certain specifications.
 
 In the case of IPFS, nodes have lower hardware requirements, which means it is possible for many more users to contribute to the network by running a node (perhaps by running a web browser that came with one built in).
 
