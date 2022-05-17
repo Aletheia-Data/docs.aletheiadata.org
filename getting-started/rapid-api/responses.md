@@ -2,7 +2,7 @@
 
 ### General API Information
 
-* The root API URL is [https://aletheia2.p.rapidapi.com/](https://aletheia2.p.rapidapi.com) (as we use the Rapid API service to distribute our API)
+* The root API URL is [https://aletheia2.p.rapidapi.com/](https://aletheia2.p.rapidapi.com/) (as we use the Rapid API service to distribute our API)
 * Parameters for GET requests must be sent as a `query string`.
 * All other request methods require parameters in the request body as `Content-Type: application/json`
 * Parameter order does not matter.

@@ -9,6 +9,7 @@
 * [IPFS](getting-started/ipfs.md)
   * [Decentralized Storage](getting-started/decentralized-storage.md)
   * [Accessibility](getting-started/accessibility.md)
+  * [Filecoin](getting-started/ipfs/filecoin.md)
 * [Rapid API](getting-started/rapid-api/README.md)
   * [Public API Documentation](getting-started/rapid-api/attributes.md)
   * [Auth for the Aletheia API](getting-started/rapid-api/limit.md)
@@ -16,7 +17,6 @@
   * [How to use](getting-started/rapid-api/quick-start.md)
   * [Query Datasets](getting-started/rapid-api/query-datasets.md)
 * [MiniSearch](getting-started/minisearch.md)
-* [Filecoin](getting-started/filecoin.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
 * [Open Source](getting-started/open-source.md)
 
