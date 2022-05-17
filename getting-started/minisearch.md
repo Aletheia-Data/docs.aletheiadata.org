@@ -7,7 +7,7 @@ description: >-
 
 # MiniSearch
 
-Some **assets\*** are accessible directly in the dashboard using our **MiniSearch Service**.
+Some **assets\*** can be accessible directly in the dashboard using our **MiniSearch Service**.
 
 This service allows users to **look into the content of the file** before downloading it. This is a very useful service that could speed up researcher's work as it gives users a quick look into the dataset.
 
