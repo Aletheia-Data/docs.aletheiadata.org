@@ -29,4 +29,4 @@ axios.request(options).then(function (response) {
 });
 ```
 
-Note: Node.js is just one of the many laguages available.
+**Note**: Node.js is just one of the many laguages available.
