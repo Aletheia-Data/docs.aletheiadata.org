@@ -23,6 +23,6 @@ on Rapid API you have direct access to any dataset's information. To query a dat
 
 ![](../../.gitbook/assets/rapidapi.com\_aletheia-data-aletheia-data-default\_api\_aletheia2-min.png)
 
-You can also copy the **Code Snippets** which are available in _**many different programming languages**_.
+You can then copy the **Code Snippets** available in _**many different programming languages,** that can be integrated into applications, AI, o used for statistical or research purposes_.
 
 To **learn more** go to [https://docs.rapidapi.com/docs/consumer-quick-start-guide](https://docs.rapidapi.com/docs/consumer-quick-start-guide)
