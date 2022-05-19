@@ -37,6 +37,8 @@
 ## Where to find us
 
 * [Virtual Office](https://gather.town/app/c6t5ZUiePKe5GdUf/aletheia-world)
+* [Discord](https://discord.gg/s35tDF3dJV)
+* [Twitter](https://twitter.com/DataAletheia)
 
 ## Academy
 
