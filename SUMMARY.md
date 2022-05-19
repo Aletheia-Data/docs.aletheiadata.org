@@ -19,12 +19,13 @@
   * [How to use](getting-started/rapid-api/quick-start.md)
   * [Query Datasets](getting-started/rapid-api/query-datasets.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
-* [Open Source](getting-started/open-source.md)
+* [🌎 Open Source ](getting-started/open-source.md)
 
 ## System
 
 * [Dashboard (👷‍♂️)](https://app.aletheiadata.org)
 * [Github](https://github.com/Aletheia-Data)
+* [Rapid API](https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2)
 * [Status System](https://aletheiadata.statuspage.io)
 
 ## We need you! 😼
