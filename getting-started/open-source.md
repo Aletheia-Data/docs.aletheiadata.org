@@ -29,7 +29,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 https://github.com/Aletheia-Data/app.aletheiadata.org
 ```
 
-#### HEP Repo:
+#### ~~HEP Repo~~ (Deprecated):
 
 ```
 https://github.com/Aletheia-Data/heptastadion.aletheiadata.org
@@ -47,7 +47,7 @@ https://github.com/Aletheia-Data/api.aletheiadata.org
 https://github.com/Aletheia-Data/search.aletheiadata.org
 ```
 
-#### MAP Repo:
+#### MAP Repo (WIP) :
 
 ```
 https://github.com/Aletheia-Data/map.aletheiadata.org
