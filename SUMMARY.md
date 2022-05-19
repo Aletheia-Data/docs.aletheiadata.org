@@ -13,7 +13,7 @@
 * [Uploader](getting-started/uploader.md)
 * [MiniSearch](getting-started/minisearch.md)
 * [Rapid API](getting-started/rapid-api/README.md)
-  * [Public API Documentation](getting-started/rapid-api/attributes.md)
+  * [Public API Disclaimer](getting-started/rapid-api/attributes.md)
   * [Auth for the Aletheia API](getting-started/rapid-api/limit.md)
   * [Public Rest API for Aletheia](getting-started/rapid-api/responses.md)
   * [How to use](getting-started/rapid-api/quick-start.md)
