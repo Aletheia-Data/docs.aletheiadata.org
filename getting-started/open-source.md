@@ -21,27 +21,41 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## [Github](https://github.com/Aletheia-Data)
+## Aletheia Data [Github](https://github.com/Aletheia-Data)
 
-#### DASHBOARD Repo:
+### Repositories
+
+#### Landing:
+
+```
+https://github.com/Aletheia-Data/aletheiadata.org
+```
+
+#### APP:
 
 ```
 https://github.com/Aletheia-Data/app.aletheiadata.org
 ```
 
-#### ~~HEP Repo~~ (Deprecated):
+#### ADMIN:
+
+```
+https://github.com/Aletheia-Data/admin.aletheiadata.org
+```
+
+#### ~~HEP~~ (Deprecated):
 
 ```
 https://github.com/Aletheia-Data/heptastadion.aletheiadata.org
 ```
 
-#### API Repo:
+#### API:
 
 ```
 https://github.com/Aletheia-Data/api.aletheiadata.org
 ```
 
-#### SEARCH Repo:
+#### ~~SEARCH~~ (Deprecated):
 
 ```
 https://github.com/Aletheia-Data/search.aletheiadata.org
@@ -51,4 +65,26 @@ https://github.com/Aletheia-Data/search.aletheiadata.org
 
 ```
 https://github.com/Aletheia-Data/map.aletheiadata.org
+```
+
+
+
+### Utils
+
+#### No Cors:
+
+```
+https://github.com/Aletheia-Data/cors.aletheiadata.org
+```
+
+#### Strapi Provider NFT Storage:
+
+```
+https://github.com/Aletheia-Data/strapi-provider-upload-nft-storage
+```
+
+#### Strapi Provider Web3 Storage:
+
+```
+https://github.com/Aletheia-Data/strapi-provider-upload-web3-storage
 ```
