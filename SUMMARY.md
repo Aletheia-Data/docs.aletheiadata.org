@@ -30,9 +30,9 @@
 
 ## We need you! 😼
 
-* [¡Apoyanos en Open Colective! 🤖](https://opencollective.com/aletheia-data)
-* [¡Apoyanos con Paypal! ❣️](https://paypal.me/insuladigitalstudio)
-* [¡Apoyanos en Gitcoin! 👨🏽‍💻](https://gitcoin.co/grants/3179/aletheia-data)
+* [Open Colective 🤖](https://opencollective.com/aletheia-data)
+* [Paypal ❣️](https://paypal.me/insuladigitalstudio)
+* [Gitcoin 👨🏽‍💻](https://gitcoin.co/grants/3179/aletheia-data)
 
 ## Where to find us
 
