@@ -26,3 +26,11 @@ _\* we currently support .csv files_
 3\. **Enter** in the search bar **what you are looking for** and our **mini search engine** will display the _**best information**_ based on the data **available in the file**. In this example, we're **searching** for the key phrase "**Santo Domingo**" in the file.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-08 at 12.36.53 PM.png>)
+
+{% hint style="danger" %}
+**Disclaimer**
+
+Some files exceeds the file size required for the MiniSearch service to function properly. If your query is too slow or gets a "501" error, please consider downloading the file and uploaded manually to your system.&#x20;
+
+We're already working on this issue.
+{% endhint %}
