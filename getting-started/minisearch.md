@@ -7,11 +7,11 @@ description: >-
 
 # MiniSearch
 
-Some **assets\*** can be accessible directly in the dashboard using our **MiniSearch Service**.
+We created a service that gives you access to the content of the **assets\*,** we call it **MiniSearch**.
 
-This service allows users to **look into the content of the file** before downloading it. This is very useful to speed up researcher's work as it gives users a quick look into the dataset.
+It will allow users to **look inside the file itself** before downloading it. This is very useful to speed up research and data discovery.
 
-1\. **Go to the asset** you're interested in
+1\. **Go to the asset\*** you're interested in
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-08 at 12.32 1.png>)
 
@@ -24,3 +24,7 @@ This service allows users to **look into the content of the file** before downlo
 ![](<../.gitbook/assets/Screen Shot 2022-04-08 at 12.36.53 PM.png>)
 
 This way you can inspect the information before downloading the file, avoiding unnecessary downloads or wasting time downloading files that you won't need.
+
+
+
+\* we currently support .csv, .json, .txt files
