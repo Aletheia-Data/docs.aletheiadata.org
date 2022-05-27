@@ -2,7 +2,7 @@
 
 Users can contribute by uploading their own datasets making the system more resilient and useful for the whole community. The more data we have in the system, the more data our community can use for their data needs.&#x20;
 
-Just Pressed "**Subir Archivo**" in homepage to upload assets into the system.
+Just Pressed "**Subir Archivo**" in homepage to upload assets into the system. Then follow all the step on the Uploader:
 
 1\. Basic Information
 
