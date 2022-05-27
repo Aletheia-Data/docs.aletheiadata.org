@@ -16,11 +16,11 @@ Just Pressed "**Subir Archivo**" in homepage to upload assets into the system. T
 
 ![](../.gitbook/assets/3.png)
 
-If you can't find the source in the search bar, you can create a new one by checking the "**Crear nuevo**" checkbox.
+If you can't find the source you're looking for, create one by checking the "**Crear nuevo**" checkbox
 
 ![](../.gitbook/assets/4.png)
 
-4\. Add the issuer of the document
+4\. Add the issuer of the document (or create one)
 
 ![](../.gitbook/assets/5.png)
 
@@ -38,6 +38,6 @@ Once you're ready to upload the asset to the system press "Submit". You'll be re
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-17 at 5.09.38 PM.png>)
 
-7\. Congratulations! Just like that your assets get decentralized and available for usage inside the Aletheia ecosystem.
+7\. Congratulations! Just like that you asset gets decentralized and made available to the community.
 
 ![](../.gitbook/assets/app.aletheiadata.org\_dashboard-min.png)
