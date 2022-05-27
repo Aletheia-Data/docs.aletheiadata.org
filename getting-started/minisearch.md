@@ -23,7 +23,7 @@ It will allow users to **look inside the file itself** before downloading it. Th
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-08 at 12.36.53 PM.png>)
 
-This way you can inspect the information before downloading the file, avoiding unnecessary downloads or wasting time downloading files that you won't need.
+
 
 
 
