@@ -14,7 +14,7 @@ It will allow users to **look inside the file itself** before downloading it. Th
 1\. **Go to the asset\*** you're interested in
 
 {% hint style="warning" %}
-_\* we currently support .csv, .json, .txt files_
+_\* we currently support .csv files_
 {% endhint %}
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-08 at 12.32 1.png>)
