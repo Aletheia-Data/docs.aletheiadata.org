@@ -24,6 +24,7 @@
 ## System
 
 * [Dashboard (👷‍♂️)](https://app.aletheiadata.org)
+* [dDashboard (🤖⚡️)](https://app-aletheiadata.on.fleek.co)
 * [Github](https://github.com/Aletheia-Data)
 * [Rapid API](https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2)
 * [Status System](https://aletheiadata.statuspage.io)
