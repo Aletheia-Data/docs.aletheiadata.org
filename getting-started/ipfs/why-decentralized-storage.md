@@ -1,6 +1,4 @@
-# Accessibility
-
-### Desirable Characteristics of Decentralized Storage <a href="#desirable-characteristics-of-decentralized-storage" id="desirable-characteristics-of-decentralized-storage"></a>
+# Why Decentralized Storage
 
 While resiliency and efficiency are hallmarks of decentralized storage, there are a number of additional characteristics that an ideal storage system might offer:
 

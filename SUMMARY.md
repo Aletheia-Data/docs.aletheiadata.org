@@ -8,7 +8,7 @@
 * [Public Information](getting-started/public-information.md)
 * [IPFS](getting-started/ipfs.md)
   * [Decentralized Storage](getting-started/decentralized-storage.md)
-  * [Accessibility](getting-started/accessibility.md)
+  * [Why Decentralized Storage](getting-started/ipfs/why-decentralized-storage.md)
   * [Filecoin](getting-started/ipfs/filecoin.md)
 * [Uploader](getting-started/uploader.md)
 * [MiniSearch](getting-started/minisearch.md)
