@@ -30,7 +30,8 @@ _\* we currently support .csv files_
 {% hint style="danger" %}
 **Disclaimer**
 
-Some files exceeds the file size required for the MiniSearch service to function properly. If your query is too slow or gets a "501" error, please consider downloading the file and uploaded manually to your system.&#x20;
+Some files exceeds the file size required for the MiniSearch service to function properly. If your query is too slow or gets a "501" error, please consider downloading the file and upload it manually to your system.
 
 We're already working on this issue.
 {% endhint %}
+
