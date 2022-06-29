@@ -21,7 +21,7 @@ _\* we currently support .csv files_
 
 2\. Click on **Mini Search** under **Connect**
 
-![](<../.gitbook/assets/Group 15 (2).png>)
+![](<../.gitbook/assets/Group 15 (1) (1).png>)
 
 3\. **Enter** in the search bar **what you are looking for** and our **mini search engine** will display the _**best information**_ based on the data **available in the file**. In this example, we're **searching** for the key phrase "**Santo Domingo**" in the file.
 

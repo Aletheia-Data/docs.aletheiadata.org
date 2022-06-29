@@ -18,8 +18,11 @@
   * [Open Rest API](getting-started/rapid-api/responses.md)
   * [How to use](getting-started/rapid-api/quick-start.md)
   * [Query Datasets](getting-started/rapid-api/query-datasets.md)
+* [Bit.io](getting-started/bit.io/README.md)
+  * [Getting started](getting-started/bit.io/getting-started.md)
+  * [How to use](getting-started/bit.io/how-to-use.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
-* [🌎 Open Source ](getting-started/open-source.md)
+* [🌎 Open Source](getting-started/open-source.md)
 
 ## System
 
