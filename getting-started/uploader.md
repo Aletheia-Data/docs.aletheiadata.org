@@ -38,6 +38,6 @@ Once you're ready to upload the asset to the system press "Submit". You'll be re
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-17 at 5.09.38 PM.png>)
 
-7\. Congratulations! Just like that you asset gets decentralized and made available to the community.
+7\. Congratulations! Just like that your asset gets decentralised and made available to the community.
 
 ![](../.gitbook/assets/app.aletheiadata.org\_dashboard-min.png)
