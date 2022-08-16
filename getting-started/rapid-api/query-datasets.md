@@ -25,4 +25,4 @@ on Rapid API you have direct access to any dataset's information. To query a dat
 
 You can then copy the **Code Snippets** available in _**many different programming languages,** that can be integrated into applications, AI, o used for statistical or research purposes_.
 
-To **learn more** go to [https://docs.rapidapi.com/docs/consumer-quick-start-guide](https://docs.rapidapi.com/docs/consumer-quick-start-guide)
+L**earn more** on [https://docs.rapidapi.com/docs/consumer-quick-start-guide](https://docs.rapidapi.com/docs/consumer-quick-start-guide)
