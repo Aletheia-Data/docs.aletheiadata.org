@@ -6,6 +6,7 @@
 
 * [General](getting-started/general.md)
 * [Public Information](getting-started/public-information.md)
+* [Magic Connect](getting-started/magic-connect.md)
 * [IPFS](getting-started/ipfs.md)
   * [Decentralized Storage](getting-started/decentralized-storage.md)
   * [Desirable Characteristics of Decentralized Storage](getting-started/ipfs/desirable-characteristics-of-decentralized-storage.md)
