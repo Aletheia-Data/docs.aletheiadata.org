@@ -5,7 +5,7 @@ description: >-
   providing the service to the public in the meantime.
 ---
 
-# 🌎 Open Source&#x20;
+# 🌎 Open Source
 
 ### License
 
@@ -65,6 +65,16 @@ https://github.com/Aletheia-Data/search.aletheiadata.org
 
 ```
 https://github.com/Aletheia-Data/map.aletheiadata.org
+```
+
+
+
+### Smart Contracts
+
+#### Aletheia Contracts:
+
+```
+https://github.com/Aletheia-Data/contracts.aletheiadata.org
 ```
 
 
