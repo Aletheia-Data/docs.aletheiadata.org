@@ -22,14 +22,15 @@
 * [Bit.io](getting-started/bit.io/README.md)
   * [Getting started](getting-started/bit.io/getting-started.md)
   * [How to use](getting-started/bit.io/how-to-use.md)
-* [Public Data NFT](getting-started/public-data-nft.md)
+* [⚡ Public Data NFT](getting-started/public-data-nft/README.md)
+  * [Mint PDNFT](getting-started/public-data-nft/mint-pdnft.md)
 * [Airdrop Program](getting-started/airdrop-program.md)
 * [🌎 Open Source](getting-started/open-source.md)
 
 ## System
 
-* [Dashboard (👷‍♂️)](https://app.aletheiadata.org)
-* [dDashboard (🤖⚡️)](https://app-aletheiadata.on.fleek.co)
+* [👷 Dashboard (beta)](https://app.aletheiadata.org)
+* [dDashboard](https://app-aletheiadata.on.fleek.co)
 * [Github](https://github.com/Aletheia-Data)
 * [Rapid API](https://rapidapi.com/aletheia-data-aletheia-data-default/api/aletheia2)
 * [Status System](https://aletheiadata.statuspage.io)
