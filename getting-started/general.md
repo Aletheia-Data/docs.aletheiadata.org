@@ -1,12 +1,12 @@
 ---
 description: >-
-  Aletheia Data is a virtual space designed to preserve and grow humanity's
-  knowledge by making the Web more resilient and open.
+  IPFS is a virtual space designed to preserve and grow humanity's knowledge by
+  making the Web more resilient and open.
 ---
 
 # General
 
-This service uploads to [IPFS](ipfs.md) any information given to it as dataset, making it "unstoppable" through blockchain technology.
+This tool makes our datasets "unstoppable" through blockchain technology.
 
 All files will be distributed by [IPFS](ipfs.md) (Interplanetary File System) making them uncensorable, immutable, and available at all times.
 
