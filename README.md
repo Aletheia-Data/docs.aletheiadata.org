@@ -4,6 +4,14 @@ description: Our mission is to democratize public information and facilitate acc
 
 # Aletheia Data
 
+{% hint style="warning" %}
+**PAUSED**&#x20;
+
+this project has been paused due to lack of founding.
+
+**Hopefully, we'll be back soon!**
+{% endhint %}
+
 ### Mission
 
 Aletheia is an Open Source project that seeks to encourage both public and private entities to facilitate access to public information, so that it can have a more relevant social impact.&#x20;
