@@ -7,7 +7,7 @@ description: Our mission is to democratize public information and facilitate acc
 {% hint style="warning" %}
 **PAUSED**&#x20;
 
-this project has been paused due to lack of founding.
+This project has been paused due to lack of funding.
 
 **Hopefully, we'll be back soon!**
 {% endhint %}
